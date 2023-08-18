@@ -12,8 +12,8 @@ The Healthcare Prescriber Insights Project is a comprehensive data processing an
 
 ## Features
 
-- **PySpark and SparkSQL Scripts:** Extract, transform, and load healthcare data from HDFS, ensuring efficient processing and easy integration with Spark transformations.
-
+- **PySpark and SparkSQL Scripts:** Extract, transform, and load healthcare data from HDFS, efficiently handling both structured and semi-structured formats, while integrating seamlessly with Spark transformations.
+  
 - **Automated Data Pipeline:** Streamline the entire data flow process by automating data extraction, transformation, and loading with Spark on GCP's Dataproc cluster.
 
 - **Advanced Reporting:** Generate insightful reports, including city-based transaction counts, top prescribers by state, and more.
@@ -39,15 +39,17 @@ The Healthcare Prescriber Insights Project is a comprehensive data processing an
 
 ## Project Structure
 
-- `/scripts`: Contains PySpark and SparkSQL scripts for data extraction, transformation, and loading.
+- `/bin`: Contains PySpark and SparkSQL scripts for data extraction, transformation, and loading.
 - `/pipeline`: Includes Unix shell scripts for automating the end-to-end pipeline.
-- `/tests`: Holds integration and unit tests to ensure application functionality and data accuracy.
+- `/unit_test`: Holds integration and unit tests to ensure application functionality and data accuracy.
 - `/logs`: Stores detailed logs for monitoring and troubleshooting.
+- `/staging`: unit tests staging data
 - `/visualizations`: Placeholder for screenshots or visual representations of the generated reports.
 
-
-
 ## Screenshots
+![image](https://github.com/pratik3848/Healthcare-Prescriber-Insights-Project/assets/41427089/c3717963-da55-4bee-b235-05ba3718a6a9)
+
+![image](https://github.com/pratik3848/Healthcare-Prescriber-Insights-Project/assets/41427089/8d4d5e76-6037-4b76-a637-d67dcf57d73b)
 
 
 
