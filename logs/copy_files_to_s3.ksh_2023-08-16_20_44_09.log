@@ -1,0 +1,8 @@
+copy_files_to_s3.ksh Started...: Wed Aug 16 20:44:09 UTC 2023
+Completed 126.5 KiB/126.5 KiB (214.5 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2 to s3://prescpipeline3848/dimension_city/2023-08-16-20-44-09/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2
+City File /home/prandad789/PrescriberAnalytics/src/main/python/output/dimension_city/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2 is pushed to S3.
+Completed 4.9 KiB/4.9 KiB (13.6 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00000-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc to s3://prescpipeline3848/presc/2023-08-16-20-44-09/part-00000-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc
+Presc file /home/prandad789/PrescriberAnalytics/src/main/python/output/presc/part-00000-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc is pushed to s3.
+Completed 5.8 KiB/5.8 KiB (15.1 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00001-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc to s3://prescpipeline3848/presc/2023-08-16-20-44-09/part-00001-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc
+Presc file /home/prandad789/PrescriberAnalytics/src/main/python/output/presc/part-00001-5163949e-9033-466c-94a4-eb61b452bac7-c000.snappy.orc is pushed to s3.
+The copy_files_to_s3.ksh is Completed...: Wed Aug 16 20:44:12 UTC 2023

@@ -1,0 +1,4 @@
+copy_files_hdfs_to_local.ksh Started...: Thu Aug 17 20:02:01 UTC 2023
+get: `PrescPipeline/output/dimension_city/*': No such file or directory
+get: `PrescPipeline/output/presc/*': No such file or directory
+copy_files_hdfs_to_local.ksh is Completed...: Thu Aug 17 20:02:06 UTC 2023

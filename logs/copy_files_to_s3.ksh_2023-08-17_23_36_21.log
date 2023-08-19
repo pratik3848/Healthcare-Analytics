@@ -1,0 +1,8 @@
+copy_files_to_s3.ksh Started...: Thu Aug 17 23:36:21 UTC 2023
+Completed 256.0 KiB/364.5 KiB (572.3 KiB/s) with 1 file(s) remainingCompleted 364.5 KiB/364.5 KiB (513.3 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-5b8610ac-6763-4264-b31a-5ee88ce66bd4-c000.csv to s3://prescpipeline3848/dimension_city/2023-08-17-23-36-21/part-00000-5b8610ac-6763-4264-b31a-5ee88ce66bd4-c000.csv
+City File /home/prandad789/PrescriberAnalytics/src/main/python/output/dimension_city/part-00000-5b8610ac-6763-4264-b31a-5ee88ce66bd4-c000.csv is pushed to S3.
+Completed 8.9 KiB/8.9 KiB (23.8 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00000-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv to s3://prescpipeline3848/presc/2023-08-17-23-36-21/part-00000-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv
+Presc file /home/prandad789/PrescriberAnalytics/src/main/python/output/presc/part-00000-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv is pushed to s3.
+Completed 7.0 KiB/7.0 KiB (18.8 KiB/s) with 1 file(s) remainingupload: ../output/presc/part-00001-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv to s3://prescpipeline3848/presc/2023-08-17-23-36-21/part-00001-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv
+Presc file /home/prandad789/PrescriberAnalytics/src/main/python/output/presc/part-00001-af68cc60-47a3-4f60-b51c-23e657a5566b-c000.csv is pushed to s3.
+The copy_files_to_s3.ksh is Completed...: Thu Aug 17 23:36:27 UTC 2023

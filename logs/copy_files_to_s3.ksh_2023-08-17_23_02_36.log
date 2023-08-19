@@ -1,0 +1,5 @@
+copy_files_to_s3.ksh Started...: Thu Aug 17 23:02:36 UTC 2023
+cancelled: ctrl-c received
+City File /home/prandad789/PrescriberAnalytics/src/main/python/output/dimension_city/part-00000-526ac0b0-29c2-4c4e-96a2-5db0613da42a-c000.json.bz2 is pushed to S3.
+Completed 126.5 KiB/126.5 KiB (226.8 KiB/s) with 1 file(s) remainingupload: ../output/dimension_city/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2 to s3://prescpipeline3848/dimension_city/2023-08-17-23-02-36/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2
+City File /home/prandad789/PrescriberAnalytics/src/main/python/output/dimension_city/part-00000-db37770f-7045-4094-a7dd-2491d17fed8e-c000.json.bz2 is pushed to S3.
